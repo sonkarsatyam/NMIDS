@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+.vscode/
+
+*.pcap
+*.log
+*.db
+
+capture.pcap
+events.log
+portscan_log.txt
+
+*.pdf
+*.csv
